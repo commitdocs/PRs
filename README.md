@@ -1,2 +1,3 @@
-Delay in commitdocs Backend 
+# PRs
 
+This repository is used to test CommitDocs PR generation.
